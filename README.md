@@ -1,4 +1,5 @@
-# Erlang master class additional material
+# [Erlang master class](https://www.kent.ac.uk/elearning/themes/masterclasses.html) notes
+
 
 Lifehacks of practical usage source code examples.
 
